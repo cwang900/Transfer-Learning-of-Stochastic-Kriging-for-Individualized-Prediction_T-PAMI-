@@ -1,4 +1,4 @@
-# Transfer-Learning-of-Stochastic-Kriging-for-Individualized-Prediction_T-PAMI-
+# Transfer Learning for Multi-output Stochastic Kriging
 
 To replicate the simulation results for the boxplot in **Fig. 5** of the manuscript, simply run the `box_pd.R` script. This one-click execution integrates all benchmark methods and the proposed approach.
 
